@@ -2,7 +2,7 @@
 
 
 
-\### Full-Stack Web Developer
+\ Full-Stack Web Developer
 
 
 
@@ -10,7 +10,6 @@ I build modern web applications, e-commerce platforms, dashboards, and business 
 
 
 
-\---
 
 
 
@@ -26,7 +25,6 @@ I mainly work with modern frontend technologies, backend services, databases, an
 
 
 
-\---
 
 
 
@@ -66,7 +64,7 @@ Git · GitHub · VS Code · Figma
 
 
 
-\---
+
 
 
 
@@ -110,7 +108,6 @@ Business analytics and management dashboard focused on restaurant operations and
 
 
 
-\---
 
 
 
@@ -128,7 +125,7 @@ Business analytics and management dashboard focused on restaurant operations and
 
 
 
-\---
+
 
 
 
@@ -140,7 +137,7 @@ Business analytics and management dashboard focused on restaurant operations and
 
 
 
-\---
+
 
 
 
@@ -152,7 +149,7 @@ GitHub: \[github.com/mazinramos](https://github.com/mazinramos)
 
 
 
-\---
+
 
 
 
